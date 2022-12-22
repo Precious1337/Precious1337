@@ -8,7 +8,7 @@
 
 
 
-![Just your casual dev studying Cyber Security](https://discord.c99.nl/widget/theme-3/953676329168044063.png)
+![https://discord.com/users/953676329168044063](https://discord.c99.nl/widget/theme-3/953676329168044063.png)
 <h3 align="left">Join my discord:</h3>
 <p align="left">
 <a href="https://discord.gg/waf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="waf" height="30" width="40" /></a>
