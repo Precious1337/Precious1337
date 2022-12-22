@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋, Precious
+#### Just your casual dev studying Cyber Security
+![Just your casual dev studying Cyber Security]
 
-I'm Precious, just your casual developer who studies Cyber Secuirty.
+I started studying Cyber Security since 2015, was obssesed with hacking and now it's taking a greater turn to networking and Web App development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vybs1)](https://github.com/anuraghazra/github-readme-stats)
+
+
+(https://discord.c99.nl/widget/theme-3/953676329168044063.png)
