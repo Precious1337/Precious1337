@@ -1,4 +1,4 @@
-### <h1>Hi there 👋, Precious</h1>
+### <h1>Hi there 👋, I'm Precious</h1>
 #### <h2>Just your casual dev studying Cyber Security</h2>
 
 
